@@ -1,0 +1,22 @@
+{
+  "name": "donko-api-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HigorLoren/donko-api-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HigorLoren/donko-api-server/issues"
+  },
+  "homepage": "https://github.com/HigorLoren/donko-api-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
